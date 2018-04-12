@@ -1,0 +1,13 @@
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\obj\Debug\netcoreapp2.0\TDD3.Xtests.csproj.CoreCompileInputs.cache
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\obj\Debug\netcoreapp2.0\TDD3.Xtests.AssemblyInfoInputs.cache
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\obj\Debug\netcoreapp2.0\TDD3.Xtests.AssemblyInfo.cs
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\bin\Debug\netcoreapp2.0\TDD3.Xtests.deps.json
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\bin\Debug\netcoreapp2.0\TDD3.Xtests.runtimeconfig.json
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\bin\Debug\netcoreapp2.0\TDD3.Xtests.runtimeconfig.dev.json
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\bin\Debug\netcoreapp2.0\TDD3.Xtests.dll
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\bin\Debug\netcoreapp2.0\TDD3.Xtests.pdb
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\obj\Debug\netcoreapp2.0\TDD3.Xtests.dll
+C:\Users\local\Documents\Visual Studio 2013\Projects\TDD3.Api\TDD3.Xtests\obj\Debug\netcoreapp2.0\TDD3.Xtests.pdb
